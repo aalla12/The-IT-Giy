@@ -1,3 +1,3 @@
-cd the-it-guy-site
+cd the-it-giy-site
 git init
-git remote add origin https://github.com/YOUR_USERNAME/the-it-guy-site.git
+git remote add origin https://github.com/aalla12/the-it-giy-site.git
